@@ -1,0 +1,6 @@
+echo "This is the first command"
+ls
+echo "This is the second command"
+pwd
+echo "This is the final command"
+cd
